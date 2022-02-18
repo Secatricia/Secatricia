@@ -15,11 +15,13 @@ My name is Lucie. I am student at Holberton school in Lille
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Secatricia&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Secatricia" />
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Secatricia&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Secatricia)  
-
-![Profile views](https://gpvc.arturio.dev/Secatricia)  
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Secatricia" alt="Secatricia" />
+</p>
+<p align="center">
+    <img align="center" src="https://gpvc.arturio.dev/Secatricia" alt="Secatricia" />
+</p>
 
 <div align="center">  
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
