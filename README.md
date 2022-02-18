@@ -1,17 +1,20 @@
-### Hi there 👋, my name is Lucie
-#### I am student in Holberton school
+# **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>** 
+<div align="center">
+My name is Lucie. I am student at Holberton school in Lille
+</div>
+</br>
 
-Skills: Python, C, Bash
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Secatricia&theme=onedark">
+</div>
 
-- 🔭 I’m currently working on this page. 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Secatricia&show_icons=true&locale=en&theme=tokyonight" alt="Secatricia" />
+</p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Secatricia)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Secatricia)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secatricia)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Secatricia&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Secatricia" />
+</p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Secatricia&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Secatricia)  
